@@ -1,5 +1,10 @@
 # Clojure Koans
 
+This is the repo for my attempt at learning and working through the Clojure
+Koans.
+
+### Description
+
 The Clojure Koans are a fun and easy way to get started with Clojure - no
 experience assumed or required.  Just follow the instructions below to start
 making tests pass!
